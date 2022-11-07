@@ -1,2 +1,2 @@
-conflict3
+feature3
 
